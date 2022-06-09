@@ -1,11 +1,11 @@
-What is FormFillerPlus? 
-
-It is firefox/chrome extension to automate office work, such as automatically fill and submit web form, then automaticall download results. 
 
 
-Is it free to use? 
 
-The free version allow filling 5 data pointes and 5 templates.
+ Markup : 1. What is FormFillerPlus? 
+              It is firefox/chrome extension to automate office work, such as automatically fill and submit web form, then automaticall download results. 
+
+          2. Is it free to use? 
+             The free version allow filling 5 data pointes and 5 templates.
 
 
 How much is the unlimited version? 
