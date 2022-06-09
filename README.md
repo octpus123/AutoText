@@ -14,16 +14,21 @@ Form Filler Plus <a name="TOP"></a>
 
    The $s per month primum version can have unlimited data pooints and unlimited templates.** 
     
-### 4.How to use FormFillerPlus?
+### 4. How to use FormFillerPlus?
 
-   Please follow this link to download the firefox extension firefox link or the chrome extenstion link. Then enable the extesion, open preference/option page, 
+   Please follow the links bellow to download and install the firefox or chrome extensions: 
+   
+   <firefox link here>   <chrome link here>
+   
+   In your browser enable the extesion, open preference/option page, cick button 'import configures from github': 
 
-click, import configures from github: 
+    <Screenshot0 here>
 
-Screenshot0 here
+   Then choose the related configure file for the website you need to access: 
 
-Then choose the related configure file for the website you need to access: 
+    <Screenshot1 here>
 
-Screenshot1 here
-
+    Click the Jump start link under a configratino to run the extesion. 
+    
+    <Screenshot 2 here>   
 
