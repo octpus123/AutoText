@@ -4,7 +4,7 @@ Form Filler Plus <a name="TOP"></a>
 - - - - 
 ### 1. What is Form Filler Plus? 
 
-   Form Filler Plus is an firefox/chrome extension to automate office work, such as automatically fill and submit web form, then automaticall download results.
+   Form Filler Plus is an firefox extension to automate office work, such as automatically fill and submit web form, then automaticall download results.
 
 ### 2. What is the featuer for the free version? 
     
@@ -12,7 +12,7 @@ Form Filler Plus <a name="TOP"></a>
     
 ### 3. How much is the paied unlimited version? What feature do it have?
 
-   The $s per month primum version can have unlimited data pooints and unlimited templates.** 
+   The $s per month primum version can have unlimited data pooints and unlimited templates.
     
 ### 4. How to use FormFillerPlus?
 
@@ -20,7 +20,7 @@ Form Filler Plus <a name="TOP"></a>
    
    <firefox link here>   <chrome link here>
    
-   In your browser enable the extesion, open preference/option page, cick button 'import configures from github': 
+   In your browser enable the extesion, open preference/option page, cick button 'Import configures from github': 
 
     <Screenshot0 here>
 
@@ -28,7 +28,7 @@ Form Filler Plus <a name="TOP"></a>
 
     <Screenshot1 here>
 
-    Click the Jump start link under a configratino to run the extesion. 
+    Click the 'Jump Start' link under a configratino to run the extesion. 
     
     <Screenshot 2 here>   
 
