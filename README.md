@@ -18,17 +18,11 @@ Form Filler Plus <a name="TOP"></a>
 
    Please follow the links bellow to download and install the firefox or chrome extensions: 
    
-   <firefox link here>   <chrome link here>
+   https://addons.mozilla.org/en-US/firefox/addon/form-filler-plus/
    
-   In your browser enable the extesion, open preference/option page, cick button 'Import configures from github': 
+   In your browser enable the extesion, open preference/option page, cick button 'Import configures from github' to import config.
 
-    <Screenshot0 here>
+   Then choose the related configure file for the website you need to access.
 
-   Then choose the related configure file for the website you need to access: 
-
-    <Screenshot1 here>
-
-    Click the 'How to setup and run' link under a configratino to run the extesion. 
-    
-    <Screenshot 2 here>   
-
+   Click the 'How to setup and run' link under a configratino to run the extesion. 
+      
