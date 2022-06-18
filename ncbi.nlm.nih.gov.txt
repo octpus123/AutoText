@@ -1,0 +1,5 @@
+Download primer.list.excl to your local machine. 
+Click "Ctrl + s", then a file selection window will pop up. 
+Choose the downloaded Excle file. 
+Form Filler Plus will submit the genomic targets to primer blast to design primer
+When all the primers are designed, the candidate primers will saved in a text file. 
