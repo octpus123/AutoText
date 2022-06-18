@@ -1,4 +1,5 @@
-Download primer.list.excl to your local machine. 
+Download primerList.xlsx(https://github.com/FormFillerPlus/FormFillerPlus/blob/main/primerList.xlsx) to your local machine. 
+Open FireFox web browser and go to: https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi
 Click "Ctrl + s", then a file selection window will pop up. 
 Choose the downloaded Excle file. 
 Form Filler Plus will submit the genomic targets to primer blast to design primer
