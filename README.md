@@ -28,7 +28,7 @@ Form Filler Plus <a name="TOP"></a>
 
     <Screenshot1 here>
 
-    Click the 'Jump Start' link under a configratino to run the extesion. 
+    Click the 'How to setup and run' link under a configratino to run the extesion. 
     
     <Screenshot 2 here>   
 
