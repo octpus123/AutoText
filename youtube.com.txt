@@ -1,0 +1,1 @@
+Open FireFox web browser and go to youtube.com, the 'Skip Ad' button will be automatically clicked when it appears. 
