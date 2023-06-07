@@ -1,0 +1,54 @@
+{"urls":
+ {"0":["urls01","service-now"],
+  "1":["submit","&NPOUNDsysverb_update_and_stay"]},
+
+"keywords":
+ {},
+
+"controls":
+ {"0":["a Hide/show","hide/show"],
+  "1":["f >>","Click .icon-arrow-down"],
+  "2":["d <<","Click .icon-arrow-up"],
+  "3":["z Back button","Click .btn.btn-default.icon-chevron-left.navbar-btn"],
+  "4":["s Save","Click submitButton"],
+  "5":["v Show Help","Show help"],
+  "6":["p profile","Save selection to profile"]},
+
+"shortcuts":
+ {"0":["tzoom","Sure. Please Zoom in before 4pm:\nhttps://xyz.zoom.us/j/23333\n\nWhat is your question by the way?\nBest,\nmyFirstName"]},
+
+"sentences":
+ {"0":[20,"Thanks for contacting us."],
+  "1":[7,"Thanks much for the details."]},
+
+"hides":
+ {"0":["8","&NPOUNDheader_attachment_line"],
+  "1":["button next to description",".col-xs-2.col-md-1_5.col-lg-2.form-field-addons"],
+  "2":["post button row",".sn-controls.row"],
+  "3":["hide/show button",".col-xs-2.col-md-1_5.col-lg-2.form-field-addons.form-toggle-inputs"],
+  "4":["6 work note list/group","&NPOUNDc21cbf711b80995038e3dd7edd4bcb20 > div:nth-child(1)"],
+  "5":["7","&NPOUNDheader_attachment"],
+  "6":["5 related search results","&NPOUNDbf1d96e3c0a801640190725e63f8ac80 > div:nth-child(5) > div > div.custom-form-group.form-group.ng-scope"],
+  "7":["7 Contributor row","&NPOUNDc21cbf711b80995038e3dd7edd4bcb20 > div:nth-child(3)"],
+  "8":["Top Save button row",".navbar.navbar-default.section_zero.ng-scope"],
+  "9":["4 Service to bussiness elaped perentage","&NPOUNDbf1d96e3c0a801640190725e63f8ac80 > div:nth-child(4)"],
+  "10":["3 The grey bar","&NPOUNDbf1d96e3c0a801640190725e63f8ac80 > div:nth-child(3)"],
+  "11":["2 Ticket number to customer phone","&NPOUNDbf1d96e3c0a801640190725e63f8ac80 > div:nth-child(2)"],
+  "12":["1 ticket status bar","&NPOUNDbf1d96e3c0a801640190725e63f8ac80 > div:nth-child(1)"],
+  "13":["Note & history label","h3.form_header"],
+  "14":["10 bottom update, save, Add Task buttons","div.form_action_button_container"],
+  "15":["11 related links","h2.related_links.h4"],
+  "16":["8 Related record\n section","&NPOUNDsection-5efc3f351b80995038e3dd7edd4bcb8c"],
+  "17":["9 Resolution information section","&NPOUNDsection-e92ebbf51b80995038e3dd7edd4bcb30"],
+  "18":["12 show lsa timeline",".related_links_container.list-unstyled"],
+  "19":["13 show related list",".section-separator.text-center.related-list-trigger-container"],
+  "20":["14 time statistic","&NPOUNDpage_timing_div"],
+  "21":["15 Note/history right button",".navbar-right"]},
+
+"fills":
+ {"0":["x Close ticket","State:Resolved Resolution-code:Request-Fulfilled:Provided Resolution-notes:Done Resolution-type:Resolved-with-Remote-Tools s"],
+  "1":["r Bio Request","Service:Bioinformatics Ticket-Type:Request Request-Type:Consulting App/Hardware:Bioinformatics-Consultation Assigned-to:myFirstName-myLastName s"],
+  "2":["e HPC Request","Service:High-Performance-Compute Ticket-Type:Request Request-Type:Consulting App/Hardware:O2-Software Assigned-to:myFirstName-myLastName s"],
+  "3":["w Bio trouble-shoot","Service:Bioinformatics Ticket-Type:Troubleshoot App/Hardware:Bioinformatics-Consultation Assigned-to:myFirstName-myLastName"],
+  "4":["q HPC Trouble-shoot","Service:High-Performance-Compute Ticket-Type:Troubleshoot App/Hardware:O2-Software Assigned-to:myFirstName-myLastName"],
+  "5":["Label:Xpath","Service:input[name=\"sys_display.incident.u_service_offering\"]:button[name=\"lookup.incident.u_service_offering\"]:service_list \n\nTicket-Type:select[name=\"incident.category\"] \n\nRequest-Type:select[name=\"incident.subcategory\"] \n\nApp/Hardware:input[name=\"sys_display.incident.cmdb_ci\"]:button[name=\"lookup.incident.cmdb_ci\"]:ci_list \n\nAssigned-to:input[name=\"sys_display.incident.assigned_to\"]:button[name=\"lookup.incident.assigned_to\"]:user_list\n\nState:select[name=\"incident.state\"]\n\nResolution-code:select[name=\"incident.u_resolution_code\"]\n\nResolution-notes:textarea[name=\"incident.u_resolution_notes\"]\n\nResolution-type:select[name=\"incident.u_resolution_type\"]"]}}
