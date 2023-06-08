@@ -13,6 +13,7 @@ Auto text expand & complete with hints <a name="TOP"></a>
    https://addons.mozilla.org/en-US/firefox/addon/auto-text/
    
    Please follow the links bellow to download and install the chrome: 
+   
    Link coming soon ...
    
    In your browser enable the extesion, open preference/option page, cick button 'Import configures from github' to import config.
