@@ -47,8 +47,8 @@
 
 "fills":
  {"0":["x Close ticket","State:Resolved Resolution-code:Request-Fulfilled:Provided Resolution-notes:Done Resolution-type:Resolved-with-Remote-Tools s"],
-  "1":["r Bio Request","Service:Bioinformatics Ticket-Type:Request Request-Type:Consulting App/Hardware:Bioinformatics-Consultation Assigned-to:myFirstName-myLastName s"],
-  "2":["e HPC Request","Service:High-Performance-Compute Ticket-Type:Request Request-Type:Consulting App/Hardware:O2-Software Assigned-to:myFirstName-myLastName s"],
+  "1":["r Bio Request","Service:Bioinformatics Ticket-Type:Request Request-Type:Consulting App/Hardware:Bioinformatics-Consultation Assigned-to:myFirstName-myLastName"],
+  "2":["e HPC Request","Service:High-Performance-Compute Ticket-Type:Request Request-Type:Consulting App/Hardware:O2-Software Assigned-to:myFirstName-myLastName"],
   "3":["w Bio trouble-shoot","Service:Bioinformatics Ticket-Type:Troubleshoot App/Hardware:Bioinformatics-Consultation Assigned-to:myFirstName-myLastName"],
   "4":["q HPC Trouble-shoot","Service:High-Performance-Compute Ticket-Type:Troubleshoot App/Hardware:O2-Software Assigned-to:myFirstName-myLastName"],
   "5":["Label:Xpath","Service:input[name=\"sys_display.incident.u_service_offering\"]:button[name=\"lookup.incident.u_service_offering\"]:service_list \n\nTicket-Type:select[name=\"incident.category\"] \n\nRequest-Type:select[name=\"incident.subcategory\"] \n\nApp/Hardware:input[name=\"sys_display.incident.cmdb_ci\"]:button[name=\"lookup.incident.cmdb_ci\"]:ci_list \n\nAssigned-to:input[name=\"sys_display.incident.assigned_to\"]:button[name=\"lookup.incident.assigned_to\"]:user_list\n\nState:select[name=\"incident.state\"]\n\nResolution-code:select[name=\"incident.u_resolution_code\"]\n\nResolution-notes:textarea[name=\"incident.u_resolution_notes\"]\n\nResolution-type:select[name=\"incident.u_resolution_type\"]"]}}
