@@ -23,4 +23,11 @@ Auto text expand & complete with hints <a name="TOP"></a>
 ### 2. How to use Auto text?   
    Sentences are auto saved in the browser storage. 
    
+   You can add/delete/modify hot key and auto fill shortcuts using service now config as example.
+   
+### 3. How to ask question?
+   Please post your questions in:
+   
+   https://github.com/octpus123/AutoText/issues
+   
       
